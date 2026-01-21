@@ -1,0 +1,6 @@
+La classe GestionException sert à repérer et faire remonter des exceptions. il contient 4 classes d'exceptions(1,2,3,4,
+ chacunes, filles de la classe Exceptions. les exceptions 1 et 4, sont vides alors que l'exception 2 affichera "coucou" 
+et l'exception 3 affichera le message passé en paramètres. 
+les 4 méthodes vérifient la présence d'exception et renvoie une exception à catch ou non si une des exceptions est présente.
+La méthode faire vérifie la présence d'exceptions en utilisant successivement les 4 méthodes avant de reveler les 
+possibles exceptions relevées dans un catch afin d'afficher les messages d'erreurs correspondants enfin elle terminera par afficher finally.
