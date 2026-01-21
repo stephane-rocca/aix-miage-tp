@@ -34,3 +34,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.gitignore
+/.idea/dbnavigator.xml
+/.idea/encodings.xml
+/.idea/google-java-format.xml
+/.idea/material_theme_project_new.xml
+/.idea/misc.xml
+/.idea/vcs.xml
