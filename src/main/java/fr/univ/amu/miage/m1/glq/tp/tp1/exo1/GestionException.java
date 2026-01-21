@@ -16,7 +16,6 @@ public class GestionException {
 
     private int valeur;
 
-
     public GestionException(int n) { valeur = n; }
 
     private void methode1() throws Exception1 {
